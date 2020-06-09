@@ -7,6 +7,10 @@ class listBooks extends Component {
         bookValue: "",
         animation:false
 
+
+
+
+        
     }
 
    onSelect = (e) => {
